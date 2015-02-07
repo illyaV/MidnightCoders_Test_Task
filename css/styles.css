@@ -1,0 +1,11 @@
+.dummy-nav-tabs {
+  margin: 20px 0 0;
+}
+
+.dummy-tab-content {
+  padding: 20px 10px 10px;
+
+  border-radius: 0 0 4px 4px;
+  border: 1px solid #ddd;
+  border-top-width: 0;
+}
